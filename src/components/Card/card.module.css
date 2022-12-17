@@ -1,0 +1,9 @@
+.container {
+  width: 35vw;
+  height: 70vh;
+  border: 1px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
